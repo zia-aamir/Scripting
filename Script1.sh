@@ -3,4 +3,7 @@ echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Branching"
 echo "I am learning Devops"
 echo "Adding new line"
-
+echo "i am learning how to use github and devops tools"
+echo "I want to achieve 9+ score in the mock test"
+echo "india"
+echo "raga"
