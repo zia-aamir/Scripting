@@ -7,3 +7,5 @@ echo "i am learning how to use github and devops tools"
 echo "I want to achieve 9+ score in the mock test"
 echo "india"
 echo "raga"
+echo "modi"
+
