@@ -8,3 +8,5 @@ echo "I am from batch 31"
 echo "this is saturday"
 echo "Saturday practical running"
 echo "tomorrow is sunday"
+echo "monday"
+
