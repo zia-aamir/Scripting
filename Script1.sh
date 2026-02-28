@@ -9,4 +9,5 @@ echo "this is saturday"
 echo "Saturday practical running"
 echo "tomorrow is sunday"
 echo "monday"
+echo "tuesday"
 
