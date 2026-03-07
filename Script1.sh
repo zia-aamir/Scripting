@@ -1,5 +1,6 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Branching"
-echo "learning devops"
-echo "weekend -saturday"
+echo "I am learning Devops"
+echo "i am feeling great"
+echo "i wont pay the last installment"
